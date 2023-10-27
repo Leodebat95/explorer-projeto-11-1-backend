@@ -1,4 +1,4 @@
-# Exercise - Front-end Deploy
+# Exercise - Back-end Deploy
 
 Exercise #1 from Week #11, named "Bora de Deploy". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
 
