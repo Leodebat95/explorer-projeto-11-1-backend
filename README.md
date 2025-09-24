@@ -15,7 +15,6 @@ introducing the concepts of web application environments, sensitive data, enviro
 
 ## Tools used in this project
 
-- HTML
-- CSS
 - JavaScript
-- ReactJS
+- dotenv
+- PM2
