@@ -1,3 +1,10 @@
+# Exercício - Deploy do Back-end
+
+Exercício #1 da Semana #11. Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
+
+Este exercício é focado no processo de deploy da aplicação (seção do Back-end),
+introduzindo os conceitos de ambientes de aplicação web, dados sensíveis, variáveis de ambiente, biblioteca dotenv, biblioteca PM2 e serviços de hospedagem web.
+
 # Exercise - Back-end Deploy
 
 Exercise #1 from Week #11, named "Bora de Deploy". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
