@@ -13,7 +13,7 @@ This exercise is focused on the process of deploying the application (Back-end s
 introducing the concepts of web application environments, sensitive data, environment variables, dotenv library, PM2 library and web hosting services.
 
 
-## Tools used in this project
+## Ferramentas Utilizadas | Tools used in this project
 
 - JavaScript
 - dotenv
