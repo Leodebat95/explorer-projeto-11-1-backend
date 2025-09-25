@@ -1,4 +1,4 @@
-# Exercício - Deploy do Back-ende
+# Exercício - Deploy do Back-end
 
 Exercício #1 da Semana #11. Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
 
