@@ -4,7 +4,7 @@ Exercício #2 da Semana #11, de nome "Bora de Deploy".<br>
 Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).<br>
 É o Backend da aplicação "Rocket Movies", que está hospedada em [Rocket Movies](https://rocketmoviesleonardodebattisti.netlify.app/).
 
-Este exercício é focado no processo de deploy da aplicação (seção do Back-end),
+Este exercício é focado no processo de deploy da aplicação (seção do Back-end),a
 introduzindo os conceitos de ambientes de aplicação web, dados sensíveis, variáveis de ambiente, biblioteca dotenv, biblioteca PM2 e serviços de hospedagem web.
 
 <br>
